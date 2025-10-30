@@ -1,2 +1,2 @@
-authentication content 
-## Authentication Methods API Key based authentication is supported... 
+## Authentication Methods
+API Key and OAuth2-based authentication are supported.
